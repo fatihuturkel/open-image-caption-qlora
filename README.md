@@ -1,6 +1,7 @@
 # GIT-QLoRA: Fine-tuning GIT Models for Image Captioning
 
 This project implements fine-tuning of Microsoft's Generative Image-to-Text (GIT) models using Quantized Low-Rank Adaptation (QLoRA) for efficient training on image captioning tasks.
+For weights: https://huggingface.co/ftrial/gemma3-open-image-caption-qlora/settings
 
 ## Overview
 
